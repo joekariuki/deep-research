@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Deep Research</h1>
+    <h1>DeepResearch</h1>
     <p>
         A multi-agent system that uses AI agents to perform comprehensive web research, synthesize findings into detailed reports, and deliver them via email.
     </p>

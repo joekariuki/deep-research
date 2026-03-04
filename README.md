@@ -7,7 +7,7 @@
 
 ## Overview
 
-Deep Research is a multi-agent system that automates the entire research workflow:
+DeepResearch is a multi-agent system that automates the entire research workflow:
 
 1. **Planning**: An AI planner agent analyzes your query and creates a strategic search plan
 2. **Searching**: Multiple web searches are performed in parallel based on the plan
@@ -18,9 +18,9 @@ The system features a user-friendly Gradio web interface for easy interaction an
 
 ## Demo
 
-See the Deep Research in action:
+See the DeepResearch in action:
 
-![Demo GIF showing the Deep Research workflow](demo.gif)
+![Demo GIF showing the DeepResearch workflow](demo.gif)
 
 The demo shows:
 
